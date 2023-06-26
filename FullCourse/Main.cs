@@ -9,9 +9,8 @@ internal class MainClass
         return b == 0 ? throw new ZeroDivision() : a / b;
     }
 
-    private static void Main()
+    private static void Division()
     {
-        RandomNumber.Guess();
         try
         {
             Console.WriteLine("Type two numbers to divided: ");
@@ -23,5 +22,11 @@ internal class MainClass
         {
             Console.WriteLine("You can't divide by zero!!");
         }
+    }
+
+    private static void Main()
+    {
+        RandomNumber.Guess();
+        Division();
     }
 }
