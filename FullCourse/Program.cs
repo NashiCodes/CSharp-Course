@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace FullCourse
+﻿namespace FullCourse
 {
-    class Program
+    class MainClass
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            RandomNumber.Guess();
         }
     }
 }
