@@ -1,1 +1,1 @@
-# Repository created to store my learning C#
+# Repository created to store all the codes on my way to learn C#
