@@ -1,4 +1,4 @@
-﻿namespace FullCourse.exceptions;
+﻿namespace FullCourse.exceptionHandling;
 
 public class Division
 {
