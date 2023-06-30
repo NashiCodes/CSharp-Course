@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="exceptionHandling\" />
+    <Folder Include="string_builder\" />
   </ItemGroup>
 
 </Project>
