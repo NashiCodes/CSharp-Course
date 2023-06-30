@@ -1,4 +1,4 @@
-﻿using FullCourse.date_Time;
+﻿using FullCourse.enum_ex;
 
 namespace FullCourse;
 
@@ -12,6 +12,8 @@ internal class MainClass
 
         // string_builder.StringBuilder.Main();
 
-        ExDateTime.main();
+        // ExDateTime.main();
+
+        ExEnum.main();
     }
 }

@@ -10,6 +10,7 @@
   <ItemGroup>
     <Folder Include="exceptionHandling\" />
     <Folder Include="date_Time\" />
+    <Folder Include="enum_ex\" />
     <Folder Include="string_builder\" />
   </ItemGroup>
 
