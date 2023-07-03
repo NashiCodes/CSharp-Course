@@ -3,6 +3,8 @@
 //using FullCourse.exceptionHandling;
 //using FullCourse.string_builder;
 
+using FullCourse.Inheritance;
+
 namespace FullCourse;
 
 internal class MainClass
@@ -14,5 +16,7 @@ internal class MainClass
         //stringBuilder.main();
         //ExDateTime.main();
         //ExEnum.main();
+
+        Safari.main();
     }
 }
