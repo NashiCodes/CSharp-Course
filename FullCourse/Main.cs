@@ -4,6 +4,8 @@
 //using FullCourse.string_builder;
 //using FullCourse.Inheritance;
 
+using FullCourse.Warriors;
+
 namespace FullCourse;
 
 internal class MainClass
@@ -16,5 +18,7 @@ internal class MainClass
         //ExDateTime.main();
         //ExEnum.main();
         //Safari.main();
+
+        Colisseum.battle();
     }
 }
