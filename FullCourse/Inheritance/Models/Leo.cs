@@ -1,4 +1,4 @@
-﻿namespace FullCourse.Inheritance;
+﻿namespace FullCourse.Inheritance.Models;
 
 internal class Leo : Animal
 {

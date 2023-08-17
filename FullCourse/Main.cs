@@ -2,8 +2,7 @@
 //using FullCourse.enum_ex;
 //using FullCourse.exceptionHandling;
 //using FullCourse.string_builder;
-
-using FullCourse.Inheritance;
+//using FullCourse.Inheritance;
 
 namespace FullCourse;
 
@@ -16,7 +15,6 @@ internal class MainClass
         //stringBuilder.main();
         //ExDateTime.main();
         //ExEnum.main();
-
-        Safari.main();
+        //Safari.main();
     }
 }

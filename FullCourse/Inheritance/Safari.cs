@@ -1,4 +1,6 @@
-﻿namespace FullCourse.Inheritance;
+﻿using FullCourse.Inheritance.Models;
+
+namespace FullCourse.Inheritance;
 
 public class Safari
 {
