@@ -34,7 +34,5 @@ public class stringBuilder
 
         sb2.Remove(11, 7);
         Console.WriteLine(sb2.ToString());
-
     }
-
 }

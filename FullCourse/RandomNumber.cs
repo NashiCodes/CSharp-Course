@@ -4,7 +4,7 @@ public class RandomNumber
 {
     public static void Guess()
     {
-        var random = new Random();
+        Random random = new();
         var secretNumber = random.Next(1, 11);
         int numberGuessed;
 
