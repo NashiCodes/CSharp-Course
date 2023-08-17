@@ -7,16 +7,16 @@ public class stringBuilder
 {
     public static void main()
     {
-        StringBuilder sb = new StringBuilder("Random Text");
-        StringBuilder sb2 = new StringBuilder("Stuff very important", 256);
+        var sb = new StringBuilder("Random Text");
+        var sb2 = new StringBuilder("Stuff very important", 256);
 
         Console.WriteLine("Capacity: {0}", sb2.Capacity);
         Console.WriteLine("Length: {0}", sb2.Length);
 
         sb2.AppendLine("\nMore important text");
 
-        CultureInfo enUS = CultureInfo.CreateSpecificCulture("en-US");
-        string besCust = "Bob Smith";
+        var enUS = CultureInfo.CreateSpecificCulture("en-US");
+        var besCust = "Bob Smith";
 
         sb2.AppendFormat(enUS, "Best Customer: {0}", besCust);
         Console.WriteLine(sb2.ToString());
