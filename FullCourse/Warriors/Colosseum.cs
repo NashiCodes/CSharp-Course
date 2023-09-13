@@ -1,6 +1,6 @@
 ﻿namespace FullCourse.Warriors;
 
-internal class Colisseum
+internal class Colosseum
 {
     public static void battle()
     {
