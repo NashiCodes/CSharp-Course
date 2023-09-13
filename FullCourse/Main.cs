@@ -3,8 +3,8 @@
 //using FullCourse.exceptionHandling;
 //using FullCourse.string_builder;
 //using FullCourse.Inheritance;
-
-using FullCourse.Warriors;
+//using FullCourse.Warriors;
+//using FullCourse.Ex_Dictionary;
 
 namespace FullCourse;
 
@@ -18,7 +18,7 @@ internal class MainClass
         //ExDateTime.main();
         //ExEnum.main();
         //Safari.main();
-
-        Colisseum.battle();
+        //Colosseum.battle();
+        //superHeroes_Dictionary.main();
     }
 }
